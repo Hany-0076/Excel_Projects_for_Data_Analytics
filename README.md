@@ -1,5 +1,19 @@
 # Excel Projects for Data Analytics
-A collection of Excel projects focused on data analytics including data cleaning, visualization, KPI tracking, and automation using formulas, PivotTables, Power Query, Power Pivot, and DAX.  
+
+A collection of Excel projects focused on data analytics, including:
+
+- ✅ **Data Cleaning & Preparation**  
+- 📊 **Interactive Charts & Visualizations**  
+- 🎯 **KPI Tracking & Performance Dashboards**  
+- ➗ **Advanced Formulas & Functions**  
+- 🧮 **PivotTables & PivotCharts**  
+- ♻️ **Power Query for ETL (Extract, Transform, Load)**  
+- 🧱 **Power Pivot & Data Modeling**  
+- 🧠 **DAX Calculations Inside Excel**  
+- ⚙️ **Automation & Dynamic Reporting**
+
+</br>
+  
 ## 1) 🛠️ Data Science Top Skills Analysis Project:
 An interactive Excel dashboard showing the top data skills, job roles, and their salaries via multiple worksheets.
 Quickly compare which skills pay best, see what employers seek, and filter by **job title** or **country**.  
@@ -23,7 +37,7 @@ Great for exploring data job market trends, skills, and salaries.
 <p align="center">
 <img width="800" height="500" alt="Salaries   Likelihood of Skills" src="https://github.com/user-attachments/assets/500c2bb6-e5a8-43fe-aaf9-a39955287386" />  
 </p>
-➡️ All these worksheets were built using **Power Query**, **Power Pivot**, and **DAX** for data modeling, transformation, and analysis:
+➡️ All these worksheets were built using Power Query, Power Pivot, and DAX for data modeling, transformation, and analysis:
 
  🟢 Power Query → Used to import, clean, and transform data before loading it into the worksheet.
 <p align="center">
